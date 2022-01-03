@@ -68,8 +68,10 @@ I am looking for highly-motivated students to work with me on the exciting area 
 * Yang Li, Ying Sha, Jixi Shan, **Bo Jiang**, Jianjun Wu. Preventing the Diffusion of Negative Information based on Local Influence Tree. In Proceedings of the 29th Symposium On Applied Computing (SAC 2014), Gyeongju, Korea, March 24-28, 2014.
 * Yang Li, Ying Sha, Jixi Shan, **Bo Jiang**. Finding High Influence Vertices based on Candidate Set. In Proceedings of the 14th International Conference on Parallel and Distributed Computing, Applications and Technologies (PDCAT 2013), Taipei, Taiwan, December 16-18, 2013.
 
+<h2 id="books">Books</h2>
+Jianjun Wu, Bo Jiang. Python Data Analysis, Mining and Visualization. China Machine Press.
 
-<h2 id="services">Services</h2>  
+<h2 id="services">Services</h2>
 
 **Conference Reviewer:**
 * International Conference on Knowledge Science, Engineering and Management (KSEM 2017, 2018) 

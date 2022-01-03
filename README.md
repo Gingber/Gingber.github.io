@@ -1,12 +1,3 @@
-ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQDMtzxUswCyDmB3uy9TQE2zxJWM47avYvV2JibkH4A0
-guYNsnwwsjDRHCeQY3DtUxSbvbB5XZsJ7M/IUQ217CI3iz5YzLPepj1HX4rSIJKVhas1729YhC3Q5hY4
-KdkP5d5b9knPCs2sbQbIQmxGE8uY1Ncw9YtMdRIIg0eptQTc8EHUdmUJTyn84sZhVqZFj9PBqmee1/4j
-Es7qtQl6V4iPvsilpjkvL+kacpS9hqUdrqvHSelgac6HN7+ZxVpa0wxMq2WpYZg4IGr+niNO9mG2akTX
-8rWV778aMKRRmT1tI7d7OeKOjWU5oisuYA76dtwlA43G1fzFinabMfLPJVF3 yifang200571@126.com
-
-
-
-
 A Github Pages template for academic websites. This was forked (then detached) by [Stuart Geiger](https://github.com/staeiou) from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/), which is © 2016 Michael Rose and released under the MIT License. See LICENSE.md.
 
 I think I've got things running smoothly and fixed some major bugs, but feel free to file issues or make pull requests if you want to improve the generic template / theme.
