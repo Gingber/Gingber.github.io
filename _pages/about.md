@@ -34,6 +34,10 @@ I am looking for highly-motivated students to work with me on the exciting area 
 
 <h2 id="publications">Publications</h2>
 
+* Chonghua Wang, Hao Zhou, Zhiqiang Hao, Shu Hu, Jun Li, Xueying Zhang, **Bo Jiang**, Xuehong Chen. Network Traffic Analysis Over Clustering-based Collective Anomaly Detection. Computer Networks, 2022:108760.
+* Jiyue Tang, Le Yang, Chen Zhang, Wenmao Liu, Meng Wang, **Bo Jiang**, Zhigang Lu. Caps-LSTM: A Novel Hierarchical Encrypted Traffic Identification using CapsNet and LSTM. The 3rd International Conference on Science of Cyber Security (SciSec 2021), August 13-15, 2021.
+* Yue Ling, Yuling Liu, **Bo Jiang**, Ning Li, Zhigang Lu, Baoxu Liu. Intrusion Detection Method based on Double-Layer Heterogeneous Ensemble Learn. Journal of Cyber Security, 2021,6(3):16-28. (in Chinese) 
+* Xueying Han, Rongchao Yin, Zhigang Lu, Bo Jiang, Yuling Liu, Song Liu, Chonghua Wang, Ning Li. STIDM: A Spatial and Temporal Aware Intrusion Detection Model. The 19th IEEE International Conference on Trust, Security and Privacy in Computing and Communications (TrustCom 2020), Guangzhou, China, December 29, 2020 - January 1, 2020.
 * Yaopeng Han, Zhigang Lu, **Bo Jiang**, Yuling Liu, Chen Zhang, Zhengwei Jiang, Ning Li. A Multi-Task Learning Framework Based on Adversarial Training for Chinese Cybersecurity NER. The 19th IEEE International Conference on Trust, Security and Privacy in Computing and Communications (Trustcom 2020), Guangzhou, China, December 29, 2020-January 1, 2021, 2020.
 * Yaopeng Han, Zhigang Lu, **Bo Jiang**, Yuling Liu, Chen Zhang, Zhengwei Jiang, Ning Li. A Multi-Task Learning Framework Based on Adversarial Training for Chinese Cybersecurity NER. The 17th Annual IFIP International Conference on Network and Parallel Computing (NPC 2020), Zhengzhou, China, September 28-30, 2020.
 * Cong Dong, Zhigang Lu, Baoxu Liu, **Bo Jiang**, Ning Li, Pingchuan Ma, Zhengwei Jiang, Junrong Liu. Knowledge Graph for Cyberspace Security Intelligence：A Survey. Journal of Cyber Security, 2020,5(5):56-76. (in Chinese)
